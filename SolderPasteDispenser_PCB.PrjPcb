@@ -67,7 +67,7 @@ GenerateClassCluster=0
 DocumentUniqueId=RIBQZUFX
 
 [Document2]
-DocumentPath=Test.SchDoc
+DocumentPath=Something.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -82,23 +82,6 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=VFMWQXIZ
-
-[Document3]
-DocumentPath=Test2.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=LTFIOYVG
 
 [Configuration1]
 Name=Sources
